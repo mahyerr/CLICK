@@ -16,9 +16,7 @@ as a video, sorted into a folder per game. No account, nothing uploaded, and it 
 
 - **Saves the last minute** with Alt+F1, in a game or anywhere. Press again a bit later and you get just the new
   part, never the same footage twice.
-- **Pops up over your game** when a clip is saved, and shows a small red dot in the corner while it's recording
-  (in fullscreen games just for a few seconds, so your frame rate stays untouched). Neither one is ever recorded
-  into your clips.
+- **Pops up over your game** when a clip is saved. The pop-up is never recorded into your clips.
 - **Sorts clips by game**: Videos\CLICK!\Valorant, Videos\CLICK!\Fortnite, ...
 - **Trim & share**: cut a clip down to the moment and export it for Discord (under 10 MB) or WhatsApp and phones.
 - **Any graphics card**: uses the card's own video encoder (NVIDIA, AMD or Intel), so your game keeps its frames.
@@ -42,8 +40,8 @@ Needs Windows 10 (2004 or newer) or Windows 11, 64-bit, and a graphics card from
 
 - NVIDIA's overlay also uses Alt+F1 (for screenshots). Change CLICK!'s key on the Recording page, or turn the
   NVIDIA overlay off, and turn NVIDIA's own Instant Replay off so two recorders don't run.
-- Games in exclusive fullscreen hide the pop-up and the dot (clips still save); borderless and most fullscreen
-  games show them.
+- Games in exclusive fullscreen hide the pop-up (clips still save); borderless and most fullscreen
+  games show it.
 - Something not working? In the app, Settings > **Create diagnostics file** makes a zip with the log and a summary
   of your PC (no clips or personal files) to send along.
 
