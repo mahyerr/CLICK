@@ -16,8 +16,9 @@ as a video, sorted into a folder per game. No account, nothing uploaded, and it 
 
 - **Saves the last minute** with Alt+F1, in a game or anywhere. Press again a bit later and you get just the new
   part, never the same footage twice.
-- **Pops up over your game** when a clip is saved, and shows a small red dot in the corner while it's recording.
-  Neither one is ever recorded into your clips.
+- **Pops up over your game** when a clip is saved, and shows a small red dot in the corner while it's recording
+  (in fullscreen games just for a few seconds, so your frame rate stays untouched). Neither one is ever recorded
+  into your clips.
 - **Sorts clips by game**: Videos\CLICK!\Valorant, Videos\CLICK!\Fortnite, ...
 - **Trim & share**: cut a clip down to the moment and export it for Discord (under 10 MB) or WhatsApp and phones.
 - **Any graphics card**: uses the card's own video encoder (NVIDIA, AMD or Intel), so your game keeps its frames.
